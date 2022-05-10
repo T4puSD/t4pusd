@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+<img aligh="left" width="350" hight="400" alt="T4puSD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=t4pusd&show_icons=true&theme=radical" />[<img align="right" width="350"  hight="400" src="https://github-readme-streak-stats.herokuapp.com/?user=t4pusd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>](https://github.com/t4pusd)
+---
+
 <!--
 **T4puSD/t4pusd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
