@@ -9,25 +9,50 @@ Welcome to my GitHub profile! I'm a backend software engineer with over four yea
 - 🌱 I’m currently expanding my knowledge in Kubernetes and cloud-native deployments.
 - 💼 Recently, I’ve been working on Spring Boot projects, Docker optimization, and creating Grafana dashboards for Prometheus metrics.
 - ✨ Passionate about writing clear, technical blog articles on topics like Docker, Spring Boot, and microservices. You can find my latest articles on [Medium](https://medium.com/@sdtapusd20).
-
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Frameworks**
-- **Java**, **Spring Boot**, **Spring Cloud**
-  
-**DevOps & Cloud Technologies**
-- **Docker**, **Kubernetes**, **Grafana**, **Prometheus**, **AWS**
+### Programming Languages
+- **Java**, **Python**, **JavaScript**, **Golang**
 
-**Databases**
-- **PostgreSQL**, **MySQL**, **MongoDB** with a strong focus on query optimization and performance tuning
+### Frameworks & Libraries
+- **Backend**: Spring, Spring Boot, Spring Boot Reactive, Spring Cloud, Spring Security, JPA, Hibernate, Flask, Express.js, Gin
+- **Frontend**: React, Angular
 
-**Tools & CI/CD**
-- **Git**, **Maven**
-<!--
+### Databases
+- **Relational**: MySQL, PostgreSQL
+- **NoSQL**: MongoDB
+
+### Caching & Messaging
+- **Caching**: Redis
+- **Message Brokers**: RabbitMQ, Kafka
+
+### Cloud Platforms
+- **AWS**: EC2, RDS, S3, DMS
+
+### DevOps Tools
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+
+### Project Management & Collaboration
+- **Tools**: Jira, Notion
+
+### API Development
+- **RESTful APIs**
+
+### Server-Side Rendering
+- **Technologies**: JSP (Java Server Pages), Thymeleaf
+
+### Testing & Build Tools
+- **Testing**: JUnit, Mockito
+- **Build Tools**: Maven, Gradle
+
+### Software Architecture
+- **Patterns**: Monolithic, Microservices, Domain-Driven Design (DDD)
+
 ---
-
+<!--
 ## 📈 Projects & Contributions
 
 ### [🚀 Project Title](https://github.com/yourusername/project-repo)
